@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "H:\\Visual Studio 2022\\Projects\\CadastroPessoas\\CadastroPessoas\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\CadastroPessoas.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CadastroPessoas.bundle.scp.css"
+    },
+    {
+      "Id": "H:\\Visual Studio 2022\\Projects\\CadastroPessoas\\CadastroPessoas\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "H:\\Visual Studio 2022\\Projects\\CadastroPessoas\\CadastroPessoas\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "H:\\Visual Studio 2022\\Projects\\CadastroPessoas\\CadastroPessoas\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "H:\\Visual Studio 2022\\Projects\\CadastroPessoas\\CadastroPessoas\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CadastroPessoas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CadastroPessoas.props",
+      "PackagePath": "build\\CadastroPessoas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CadastroPessoas.props",
+      "PackagePath": "buildMultiTargeting\\CadastroPessoas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CadastroPessoas.props",
+      "PackagePath": "buildTransitive\\CadastroPessoas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
